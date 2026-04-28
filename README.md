@@ -114,7 +114,7 @@ This does not matter for the mapper. When the "A" slot is selected, press whiche
 
 ```
 .
-├── gamepad-mapper.html    # the entire tool, single self-contained file
+├── index.html    # the entire tool, single self-contained file
 └── README.md
 ```
 
